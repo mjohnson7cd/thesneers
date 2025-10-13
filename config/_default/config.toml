@@ -4,7 +4,8 @@ languageCode = "en-us"
 title = "The Sneers"
 defaultContentLanguage = "en"
 hasCJKLanguage = false
-relativeURLs = true
+relativeURLs = false
+canonifyURLs = true
 
 [params]
 description = "The Sneers - Official Band Website"
