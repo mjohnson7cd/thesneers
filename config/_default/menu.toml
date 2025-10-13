@@ -8,17 +8,34 @@
 #newtab = true
 
 [[social]]
-identifier = "github"
-name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+identifier = "spotify"
+name = "spotify"
+url = "https://open.spotify.com/artist/1BuwrPJoNGJoylPEbyaYUI"
 
 [social.params]
-icon = "brand-github"
+icon = "brand-spotify"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "applemusic"
+name = "Apple Music"
+url = "https://music.apple.com/us/artist/the-sneers/1772566348"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-apple"
+#
+#[[social]]
+#identifier = "youtubemusic"
+#name = "YouTube Music"
+#url = "https://music.youtube.com/channel/UC3xLzfBcobGIAukqKcNMU9Q"
+#
+#[social.params]
+#icon = "brand-youtube"
+#
+#
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/thesneers/?hl=en"
+
+[social.params]
+icon = "brand-instagram"
