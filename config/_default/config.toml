@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseURL = "https://thesneers.com/"
+baseURL = "https://mjohnson7cd.github.io/thesneers.com/"
 languageCode = "en-us"
 title = "The Sneers"
 defaultContentLanguage = "en"
