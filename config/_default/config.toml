@@ -15,7 +15,7 @@ ShowShareButtons = false
 
 [params.author]
 name = "The Sneers"
-email = ""
+email = "info@thesneers.com"
 
 [[params.socialIcons]]
 name = "spotify"
