@@ -1,33 +1,27 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: Spotify
+    description: Listen to The Sneers on Spotify.
+    website: https://open.spotify.com/artist/1BuwrPJoNGJoylPEbyaYUI
+#    image: /images/icons/brand-spotify.svg
+  - title: Apple Music
+    description: Listen to The Sneers on Apple Music.
+    website: https://music.apple.com/us/artist/the-sneers/1772566348
+#    image: /images/icons/brand-apple.svg
+  - title: Bandcamp
+    description: Listen to The Sneers on Bandcamp.
+    website: https://thesneers.bandcamp.com/
+#    image: /images/icons/brand-bandcamp.svg
+  - title: YouTube Music
+    description: Listen to The Sneers on YouTube Music.
+    website: https://music.youtube.com/channel/UC3xLzfBcobGIAukqKcNMU9Q
+    image: 
 menu:
-    main: 
-        weight: 4
-        params:
-            icon: link
-
+  main:
+    weight: 4
+    params:
+      icon: link
 comments: false
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+This page contains links to The Sneers on various streaming platforms and social media accounts.
