@@ -1,11 +1,4 @@
 # Configure main menu and social menu
-[[main]]
-identifier = "artwork"
-name = "Artwork"
-url = "/photos/"
-[main.params]
-icon = "photo-scan"
-newtab = false
 
 [[social]]
 identifier = "Spotify"

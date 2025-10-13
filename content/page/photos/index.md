@@ -1,6 +1,14 @@
 ---
+title: Artwork
 description: We believe that visual art is just as important as our music.
 image: 21.jpg
+menu:
+  main:
+    weight: 4
+    params:
+      name: Artwork
+      icon: photo-scan
+comments: false
 ---
 
 Here is our collection of photos and artwork. Everything shared here was created by a local artist from Western New York. (Plus a few from our lead singer Matt!)
