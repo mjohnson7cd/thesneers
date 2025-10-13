@@ -39,3 +39,11 @@ url = "https://www.instagram.com/thesneers/?hl=en"
 
 [social.params]
 icon = "brand-instagram"
+
+[[social]]
+identifier = "bandcamp"
+name = "Bandcamp"
+url = "https://thesneers.bandcamp.com/"
+
+[social.params]
+icon = "brand-bandcamp"
