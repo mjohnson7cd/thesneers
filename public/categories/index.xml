@@ -5,6 +5,8 @@
         <link>http://localhost:1313/thesneers/categories/</link>
         <description>Recent content in Categories on The Sneers</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://localhost:1313/thesneers/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <managingEditor>info@thesneers.com (The Sneers)</managingEditor>
+        <webMaster>info@thesneers.com (The Sneers)</webMaster><atom:link href="http://localhost:1313/thesneers/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
