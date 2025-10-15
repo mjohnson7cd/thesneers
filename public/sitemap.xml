@@ -2,18 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/thesneers/about-us/</loc>
+    <loc>https://mjohnson7cd.github.io/thesneers/about-us/</loc>
   </url><url>
-    <loc>http://localhost:1313/thesneers/artwork/</loc>
+    <loc>https://mjohnson7cd.github.io/thesneers/artwork/</loc>
   </url><url>
-    <loc>http://localhost:1313/thesneers/categories/</loc>
+    <loc>https://mjohnson7cd.github.io/thesneers/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/thesneers/links/</loc>
+    <loc>https://mjohnson7cd.github.io/thesneers/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/thesneers/page/</loc>
+    <loc>https://mjohnson7cd.github.io/thesneers/page/</loc>
   </url><url>
-    <loc>http://localhost:1313/thesneers/tags/</loc>
+    <loc>https://mjohnson7cd.github.io/thesneers/songs-in-the-key-of-mike/</loc>
   </url><url>
-    <loc>http://localhost:1313/thesneers/</loc>
+    <loc>https://mjohnson7cd.github.io/thesneers/tags/</loc>
+  </url><url>
+    <loc>https://mjohnson7cd.github.io/thesneers/</loc>
   </url>
 </urlset>
