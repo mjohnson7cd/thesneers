@@ -11,7 +11,7 @@ menu:
 comments: false
 ---
 
-Here is our collection of photos and artwork. Everything shared here was created by a local artist from Western New York. (Plus a few from our lead singer Matt!)
+Here is our collection of photos and artwork. Everything shared here was created by Sarah Bruno, Billie Page and Matt Smith, and other local artist in Western New York.
 
 ![](20.jpg)
 
