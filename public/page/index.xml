@@ -9,16 +9,16 @@
         <managingEditor>info@thesneers.com (The Sneers)</managingEditor>
         <webMaster>info@thesneers.com (The Sneers)</webMaster>
         <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/thesneers/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title></title>
-        <link>http://localhost:1313/thesneers/</link>
+        <title>Gallery</title>
+        <link>http://localhost:1313/thesneers/gallery/</link>
         <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
         <author>info@thesneers.com (The Sneers)</author>
-        <guid>http://localhost:1313/thesneers/</guid>
-        <description>&lt;img src="http://localhost:1313/thesneers/21.jpg" alt="Featured image of post " /&gt;&lt;p&gt;Here is our collection of photos and artwork. Everything shared here was created by Sarah Bruno, Billie Page and Matt Smith, and other local artist in Western New York.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/20.jpg&#34;
+        <guid>http://localhost:1313/thesneers/gallery/</guid>
+        <description>&lt;img src="http://localhost:1313/thesneers/gallery/21.jpg" alt="Featured image of post Gallery" /&gt;&lt;p&gt;Here is our collection of photos and artwork. Everything shared here was created by Sarah Bruno, Billie Page and Matt Smith, and other local artist in Western New York.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/20.jpg&#34;
 	width=&#34;2227&#34;
 	height=&#34;1485&#34;
-	srcset=&#34;http://localhost:1313/thesneers/20_hu_f8d9f0ee2d93033b.jpg 480w, http://localhost:1313/thesneers/20_hu_6c1d1bd6a153749e.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/20_hu_f8d9f0ee2d93033b.jpg 480w, http://localhost:1313/thesneers/gallery/20_hu_6c1d1bd6a153749e.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -27,10 +27,10 @@
 		data-flex-basis=&#34;359px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/19.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/19.jpg&#34;
 	width=&#34;2227&#34;
 	height=&#34;1485&#34;
-	srcset=&#34;http://localhost:1313/thesneers/19_hu_b0696a78285c57d7.jpg 480w, http://localhost:1313/thesneers/19_hu_6c247525bb64e3b3.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/19_hu_b0696a78285c57d7.jpg 480w, http://localhost:1313/thesneers/gallery/19_hu_6c247525bb64e3b3.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -39,10 +39,10 @@
 		data-flex-basis=&#34;359px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/15.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/15.jpeg&#34;
 	width=&#34;1766&#34;
 	height=&#34;1850&#34;
-	srcset=&#34;http://localhost:1313/thesneers/15_hu_56ffef1110671145.jpeg 480w, http://localhost:1313/thesneers/15_hu_a45555db2a6d525e.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/15_hu_56ffef1110671145.jpeg 480w, http://localhost:1313/thesneers/gallery/15_hu_a45555db2a6d525e.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -51,10 +51,10 @@
 		data-flex-basis=&#34;229px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/14.jpg&#34;
 	width=&#34;6720&#34;
 	height=&#34;4480&#34;
-	srcset=&#34;http://localhost:1313/thesneers/14_hu_55694b2931f6a85d.jpg 480w, http://localhost:1313/thesneers/14_hu_9f6cfe387acbd829.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/14_hu_55694b2931f6a85d.jpg 480w, http://localhost:1313/thesneers/gallery/14_hu_9f6cfe387acbd829.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -63,10 +63,10 @@
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/13.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/13.jpg&#34;
 	width=&#34;6720&#34;
 	height=&#34;4480&#34;
-	srcset=&#34;http://localhost:1313/thesneers/13_hu_42f1a478e8081719.jpg 480w, http://localhost:1313/thesneers/13_hu_9c332bface3c411e.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/13_hu_42f1a478e8081719.jpg 480w, http://localhost:1313/thesneers/gallery/13_hu_9c332bface3c411e.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -75,10 +75,10 @@
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/12.JPG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/12.JPG&#34;
 	width=&#34;6720&#34;
 	height=&#34;4480&#34;
-	srcset=&#34;http://localhost:1313/thesneers/12_hu_2a57b03e5465b3f.JPG 480w, http://localhost:1313/thesneers/12_hu_4f2d274c842b2ec2.JPG 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/12_hu_2a57b03e5465b3f.JPG 480w, http://localhost:1313/thesneers/gallery/12_hu_4f2d274c842b2ec2.JPG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -87,10 +87,10 @@
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/10.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/10.jpeg&#34;
 	width=&#34;1170&#34;
 	height=&#34;871&#34;
-	srcset=&#34;http://localhost:1313/thesneers/10_hu_77136a2d7583a6b1.jpeg 480w, http://localhost:1313/thesneers/10_hu_a927748655509458.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/10_hu_77136a2d7583a6b1.jpeg 480w, http://localhost:1313/thesneers/gallery/10_hu_a927748655509458.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -99,10 +99,10 @@
 		data-flex-basis=&#34;322px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/9.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/9.jpeg&#34;
 	width=&#34;1170&#34;
 	height=&#34;863&#34;
-	srcset=&#34;http://localhost:1313/thesneers/9_hu_42b5c87412a527c2.jpeg 480w, http://localhost:1313/thesneers/9_hu_bc161564e6371837.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/9_hu_42b5c87412a527c2.jpeg 480w, http://localhost:1313/thesneers/gallery/9_hu_bc161564e6371837.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -111,10 +111,10 @@
 		data-flex-basis=&#34;325px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/8.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/8.jpeg&#34;
 	width=&#34;1170&#34;
 	height=&#34;846&#34;
-	srcset=&#34;http://localhost:1313/thesneers/8_hu_f0d7e01e7d30acca.jpeg 480w, http://localhost:1313/thesneers/8_hu_3fe8eae08328bc45.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/8_hu_f0d7e01e7d30acca.jpeg 480w, http://localhost:1313/thesneers/gallery/8_hu_3fe8eae08328bc45.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -123,10 +123,10 @@
 		data-flex-basis=&#34;331px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/5.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/5.jpeg&#34;
 	width=&#34;2791&#34;
 	height=&#34;3721&#34;
-	srcset=&#34;http://localhost:1313/thesneers/5_hu_ec3fb772147b58ed.jpeg 480w, http://localhost:1313/thesneers/5_hu_fde3fa9bf07a8fa9.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/5_hu_ec3fb772147b58ed.jpeg 480w, http://localhost:1313/thesneers/gallery/5_hu_fde3fa9bf07a8fa9.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -135,10 +135,10 @@
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/18.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/18.jpeg&#34;
 	width=&#34;846&#34;
 	height=&#34;1504&#34;
-	srcset=&#34;http://localhost:1313/thesneers/18_hu_4e2ba8393cf7988f.jpeg 480w, http://localhost:1313/thesneers/18_hu_33a78708a1d14393.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/18_hu_4e2ba8393cf7988f.jpeg 480w, http://localhost:1313/thesneers/gallery/18_hu_33a78708a1d14393.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -147,10 +147,10 @@
 		data-flex-basis=&#34;135px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/17.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/17.jpeg&#34;
 	width=&#34;1725&#34;
 	height=&#34;1150&#34;
-	srcset=&#34;http://localhost:1313/thesneers/17_hu_2f5365955b9592db.jpeg 480w, http://localhost:1313/thesneers/17_hu_81a9e4bc1ce47e3d.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/17_hu_2f5365955b9592db.jpeg 480w, http://localhost:1313/thesneers/gallery/17_hu_81a9e4bc1ce47e3d.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -159,10 +159,10 @@
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/16.jpg&#34;
 	width=&#34;6720&#34;
 	height=&#34;4480&#34;
-	srcset=&#34;http://localhost:1313/thesneers/16_hu_cf5a0ebe38c5147f.jpg 480w, http://localhost:1313/thesneers/16_hu_ade542278c5953b6.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/16_hu_cf5a0ebe38c5147f.jpg 480w, http://localhost:1313/thesneers/gallery/16_hu_ade542278c5953b6.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -171,10 +171,10 @@
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/11.JPG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/11.JPG&#34;
 	width=&#34;1400&#34;
 	height=&#34;1400&#34;
-	srcset=&#34;http://localhost:1313/thesneers/11_hu_11f892caeb8c0284.JPG 480w, http://localhost:1313/thesneers/11_hu_dcc06980c6058927.JPG 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/11_hu_11f892caeb8c0284.JPG 480w, http://localhost:1313/thesneers/gallery/11_hu_dcc06980c6058927.JPG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -183,10 +183,10 @@
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/7.JPG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/7.JPG&#34;
 	width=&#34;1819&#34;
 	height=&#34;1819&#34;
-	srcset=&#34;http://localhost:1313/thesneers/7_hu_caf2858840a68e25.JPG 480w, http://localhost:1313/thesneers/7_hu_945ba9f5679d3cad.JPG 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/7_hu_caf2858840a68e25.JPG 480w, http://localhost:1313/thesneers/gallery/7_hu_945ba9f5679d3cad.JPG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -195,10 +195,10 @@
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/6.jpg&#34;
 	width=&#34;1382&#34;
 	height=&#34;1672&#34;
-	srcset=&#34;http://localhost:1313/thesneers/6_hu_1ec20e86e8423716.jpg 480w, http://localhost:1313/thesneers/6_hu_a1c0db09248dda1b.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/6_hu_1ec20e86e8423716.jpg 480w, http://localhost:1313/thesneers/gallery/6_hu_a1c0db09248dda1b.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -207,10 +207,10 @@
 		data-flex-basis=&#34;198px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/4.jpg&#34;
 	width=&#34;1616&#34;
 	height=&#34;1080&#34;
-	srcset=&#34;http://localhost:1313/thesneers/4_hu_3faca06ac8ccb815.jpg 480w, http://localhost:1313/thesneers/4_hu_ea90ce3fdcdfafa2.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/4_hu_3faca06ac8ccb815.jpg 480w, http://localhost:1313/thesneers/gallery/4_hu_ea90ce3fdcdfafa2.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -219,10 +219,10 @@
 		data-flex-basis=&#34;359px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/3.jpg&#34;
 	width=&#34;1616&#34;
 	height=&#34;1080&#34;
-	srcset=&#34;http://localhost:1313/thesneers/3_hu_5939ae3ca5dd78bb.jpg 480w, http://localhost:1313/thesneers/3_hu_98c1595a5333c003.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/3_hu_5939ae3ca5dd78bb.jpg 480w, http://localhost:1313/thesneers/gallery/3_hu_98c1595a5333c003.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -231,10 +231,10 @@
 		data-flex-basis=&#34;359px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/2.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/2.jpeg&#34;
 	width=&#34;1506&#34;
 	height=&#34;1506&#34;
-	srcset=&#34;http://localhost:1313/thesneers/2_hu_90faadad54d5a4ad.jpeg 480w, http://localhost:1313/thesneers/2_hu_2a6c870a4acb5319.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/2_hu_90faadad54d5a4ad.jpeg 480w, http://localhost:1313/thesneers/gallery/2_hu_2a6c870a4acb5319.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -243,10 +243,10 @@
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/1.jpg&#34;
 	width=&#34;646&#34;
 	height=&#34;646&#34;
-	srcset=&#34;http://localhost:1313/thesneers/1_hu_6fe0299e512bc183.jpg 480w, http://localhost:1313/thesneers/1_hu_7414ee551f63521a.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/1_hu_6fe0299e512bc183.jpg 480w, http://localhost:1313/thesneers/gallery/1_hu_7414ee551f63521a.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -255,10 +255,10 @@
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/23.jpg&#34;
 	width=&#34;3000&#34;
 	height=&#34;3000&#34;
-	srcset=&#34;http://localhost:1313/thesneers/23_hu_fccbfa1960afcbd5.jpg 480w, http://localhost:1313/thesneers/23_hu_a1945cf573a03dfb.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/23_hu_fccbfa1960afcbd5.jpg 480w, http://localhost:1313/thesneers/gallery/23_hu_a1945cf573a03dfb.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -267,10 +267,10 @@
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/22.jpg&#34;
 	width=&#34;3000&#34;
 	height=&#34;3000&#34;
-	srcset=&#34;http://localhost:1313/thesneers/22_hu_35f34d19b26b33bf.jpg 480w, http://localhost:1313/thesneers/22_hu_7c032bf653ecf3af.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/22_hu_35f34d19b26b33bf.jpg 480w, http://localhost:1313/thesneers/gallery/22_hu_7c032bf653ecf3af.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -279,10 +279,10 @@
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/gallery/21.jpg&#34;
 	width=&#34;2258&#34;
 	height=&#34;1465&#34;
-	srcset=&#34;http://localhost:1313/thesneers/21_hu_ccf32fa878f194c5.jpg 480w, http://localhost:1313/thesneers/21_hu_7f25025758fc6c35.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/gallery/21_hu_ccf32fa878f194c5.jpg 480w, http://localhost:1313/thesneers/gallery/21_hu_7f25025758fc6c35.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
