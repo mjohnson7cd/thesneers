@@ -2,41 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on The Sneers</title>
-        <link>https://mjohnson7cd.github.io/thesneers/page/</link>
+        <link>http://localhost:1313/thesneers/page/</link>
         <description>Recent content in Pages on The Sneers</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>info@thesneers.com (The Sneers)</managingEditor>
-        <webMaster>info@thesneers.com (The Sneers)</webMaster><atom:link href="https://mjohnson7cd.github.io/thesneers/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>About Us</title>
-        <link>https://mjohnson7cd.github.io/thesneers/about-us/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <webMaster>info@thesneers.com (The Sneers)</webMaster>
+        <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/thesneers/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title></title>
+        <link>http://localhost:1313/thesneers/</link>
+        <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
         <author>info@thesneers.com (The Sneers)</author>
-        <guid>https://mjohnson7cd.github.io/thesneers/about-us/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/6.JPG&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;We are a punk band from Buffalo NY, The Sneers infuse a unique blend of influences mixing elements of both hardcore and
-jam to  create a tight yet free-flowing and unique sound set against a landscape of words and stories that exude the
-Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Artwork</title>
-        <link>https://mjohnson7cd.github.io/thesneers/artwork/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>info@thesneers.com (The Sneers)</author>
-        <guid>https://mjohnson7cd.github.io/thesneers/artwork/</guid>
-        <description>&lt;img src="https://mjohnson7cd.github.io/thesneers/artwork/21.jpg" alt="Featured image of post Artwork" /&gt;&lt;p&gt;Here is our collection of photos and artwork. Everything shared here was created by a local artist from Western New York. (Plus a few from our lead singer Matt!)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/20.jpg&#34;
+        <guid>http://localhost:1313/thesneers/</guid>
+        <description>&lt;img src="http://localhost:1313/thesneers/21.jpg" alt="Featured image of post " /&gt;&lt;p&gt;Here is our collection of photos and artwork. Everything shared here was created by Sarah Bruno, Billie Page and Matt Smith, and other local artist in Western New York.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/20.jpg&#34;
 	width=&#34;2227&#34;
 	height=&#34;1485&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/20_hu_58147eb04b63ec4c.jpg 480w, https://mjohnson7cd.github.io/thesneers/artwork/20_hu_1f52229d17a599e7.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/20_hu_f8d9f0ee2d93033b.jpg 480w, http://localhost:1313/thesneers/20_hu_6c1d1bd6a153749e.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -45,10 +27,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;359px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/19.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/19.jpg&#34;
 	width=&#34;2227&#34;
 	height=&#34;1485&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/19_hu_302f487b594654ad.jpg 480w, https://mjohnson7cd.github.io/thesneers/artwork/19_hu_f4eb11982c6295c7.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/19_hu_b0696a78285c57d7.jpg 480w, http://localhost:1313/thesneers/19_hu_6c247525bb64e3b3.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -57,10 +39,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;359px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/15.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/15.jpeg&#34;
 	width=&#34;1766&#34;
 	height=&#34;1850&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/15_hu_aecf2a84db8a8db.jpeg 480w, https://mjohnson7cd.github.io/thesneers/artwork/15_hu_35df76be84ba5919.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/15_hu_56ffef1110671145.jpeg 480w, http://localhost:1313/thesneers/15_hu_a45555db2a6d525e.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -69,10 +51,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;229px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/14.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/14.jpg&#34;
 	width=&#34;6720&#34;
 	height=&#34;4480&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/14_hu_d1cdbcf75d5c8fce.jpg 480w, https://mjohnson7cd.github.io/thesneers/artwork/14_hu_1cf3da22d2a3d2d0.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/14_hu_55694b2931f6a85d.jpg 480w, http://localhost:1313/thesneers/14_hu_9f6cfe387acbd829.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -81,10 +63,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/13.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/13.jpg&#34;
 	width=&#34;6720&#34;
 	height=&#34;4480&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/13_hu_383d6ed6ccef8854.jpg 480w, https://mjohnson7cd.github.io/thesneers/artwork/13_hu_4338cc8f35d55f53.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/13_hu_42f1a478e8081719.jpg 480w, http://localhost:1313/thesneers/13_hu_9c332bface3c411e.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -93,10 +75,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/12.JPG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/12.JPG&#34;
 	width=&#34;6720&#34;
 	height=&#34;4480&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/12_hu_e116d01cc9bd5a39.JPG 480w, https://mjohnson7cd.github.io/thesneers/artwork/12_hu_c2b7e0d3a25fde95.JPG 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/12_hu_2a57b03e5465b3f.JPG 480w, http://localhost:1313/thesneers/12_hu_4f2d274c842b2ec2.JPG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -105,10 +87,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/10.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/10.jpeg&#34;
 	width=&#34;1170&#34;
 	height=&#34;871&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/10_hu_a8ff62e18a95f152.jpeg 480w, https://mjohnson7cd.github.io/thesneers/artwork/10_hu_940b048daf3ece71.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/10_hu_77136a2d7583a6b1.jpeg 480w, http://localhost:1313/thesneers/10_hu_a927748655509458.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -117,10 +99,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;322px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/9.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/9.jpeg&#34;
 	width=&#34;1170&#34;
 	height=&#34;863&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/9_hu_42ddf0ac20a50916.jpeg 480w, https://mjohnson7cd.github.io/thesneers/artwork/9_hu_bd1bdb42ece01ad8.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/9_hu_42b5c87412a527c2.jpeg 480w, http://localhost:1313/thesneers/9_hu_bc161564e6371837.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -129,10 +111,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;325px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/8.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/8.jpeg&#34;
 	width=&#34;1170&#34;
 	height=&#34;846&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/8_hu_6c7cf81addfed21a.jpeg 480w, https://mjohnson7cd.github.io/thesneers/artwork/8_hu_f0868112036cf65a.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/8_hu_f0d7e01e7d30acca.jpeg 480w, http://localhost:1313/thesneers/8_hu_3fe8eae08328bc45.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -141,10 +123,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;331px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/5.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/5.jpeg&#34;
 	width=&#34;2791&#34;
 	height=&#34;3721&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/5_hu_41548896e4a930c0.jpeg 480w, https://mjohnson7cd.github.io/thesneers/artwork/5_hu_4269247b40170119.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/5_hu_ec3fb772147b58ed.jpeg 480w, http://localhost:1313/thesneers/5_hu_fde3fa9bf07a8fa9.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -153,10 +135,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/18.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/18.jpeg&#34;
 	width=&#34;846&#34;
 	height=&#34;1504&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/18_hu_74f8c950a6d57af5.jpeg 480w, https://mjohnson7cd.github.io/thesneers/artwork/18_hu_10c6d8202795c1e9.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/18_hu_4e2ba8393cf7988f.jpeg 480w, http://localhost:1313/thesneers/18_hu_33a78708a1d14393.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -165,10 +147,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;135px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/17.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/17.jpeg&#34;
 	width=&#34;1725&#34;
 	height=&#34;1150&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/17_hu_ac6db070d75e4b40.jpeg 480w, https://mjohnson7cd.github.io/thesneers/artwork/17_hu_afb6e417e2953324.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/17_hu_2f5365955b9592db.jpeg 480w, http://localhost:1313/thesneers/17_hu_81a9e4bc1ce47e3d.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -177,10 +159,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/16.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/16.jpg&#34;
 	width=&#34;6720&#34;
 	height=&#34;4480&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/16_hu_b079b2c2fe74fc41.jpg 480w, https://mjohnson7cd.github.io/thesneers/artwork/16_hu_bc63f5f2373fb0b.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/16_hu_cf5a0ebe38c5147f.jpg 480w, http://localhost:1313/thesneers/16_hu_ade542278c5953b6.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -189,10 +171,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/11.JPG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/11.JPG&#34;
 	width=&#34;1400&#34;
 	height=&#34;1400&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/11_hu_578ccbdcc71b514c.JPG 480w, https://mjohnson7cd.github.io/thesneers/artwork/11_hu_3e1c9f8e04ca16fa.JPG 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/11_hu_11f892caeb8c0284.JPG 480w, http://localhost:1313/thesneers/11_hu_dcc06980c6058927.JPG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -201,10 +183,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/7.JPG&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/7.JPG&#34;
 	width=&#34;1819&#34;
 	height=&#34;1819&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/7_hu_c423e3063d888eb6.JPG 480w, https://mjohnson7cd.github.io/thesneers/artwork/7_hu_55ead1781293bf00.JPG 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/7_hu_caf2858840a68e25.JPG 480w, http://localhost:1313/thesneers/7_hu_945ba9f5679d3cad.JPG 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -213,10 +195,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/6.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/6.jpg&#34;
 	width=&#34;1382&#34;
 	height=&#34;1672&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/6_hu_384b49ec7dfc11b5.jpg 480w, https://mjohnson7cd.github.io/thesneers/artwork/6_hu_cebee7d1ec0feb28.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/6_hu_1ec20e86e8423716.jpg 480w, http://localhost:1313/thesneers/6_hu_a1c0db09248dda1b.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -225,10 +207,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;198px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/4.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/4.jpg&#34;
 	width=&#34;1616&#34;
 	height=&#34;1080&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/4_hu_36c06d0ec8b94a2a.jpg 480w, https://mjohnson7cd.github.io/thesneers/artwork/4_hu_52b666b5dc7113b6.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/4_hu_3faca06ac8ccb815.jpg 480w, http://localhost:1313/thesneers/4_hu_ea90ce3fdcdfafa2.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -237,10 +219,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;359px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/3.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/3.jpg&#34;
 	width=&#34;1616&#34;
 	height=&#34;1080&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/3_hu_8aa6e44b4a29c71b.jpg 480w, https://mjohnson7cd.github.io/thesneers/artwork/3_hu_422331b94b132b02.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/3_hu_5939ae3ca5dd78bb.jpg 480w, http://localhost:1313/thesneers/3_hu_98c1595a5333c003.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -249,10 +231,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;359px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/2.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/2.jpeg&#34;
 	width=&#34;1506&#34;
 	height=&#34;1506&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/2_hu_f1d64d94f215d2df.jpeg 480w, https://mjohnson7cd.github.io/thesneers/artwork/2_hu_72abaa409c5c6416.jpeg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/2_hu_90faadad54d5a4ad.jpeg 480w, http://localhost:1313/thesneers/2_hu_2a6c870a4acb5319.jpeg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -261,10 +243,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/1.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/1.jpg&#34;
 	width=&#34;646&#34;
 	height=&#34;646&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/1_hu_950120f694a5c3d2.jpg 480w, https://mjohnson7cd.github.io/thesneers/artwork/1_hu_b18d3aae81aa599.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/1_hu_6fe0299e512bc183.jpg 480w, http://localhost:1313/thesneers/1_hu_7414ee551f63521a.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -273,10 +255,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/23.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/23.jpg&#34;
 	width=&#34;3000&#34;
 	height=&#34;3000&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/23_hu_9a88667598206c8a.jpg 480w, https://mjohnson7cd.github.io/thesneers/artwork/23_hu_140ed2dbf5d2c6ce.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/23_hu_fccbfa1960afcbd5.jpg 480w, http://localhost:1313/thesneers/23_hu_a1945cf573a03dfb.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -285,10 +267,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/22.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/22.jpg&#34;
 	width=&#34;3000&#34;
 	height=&#34;3000&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/22_hu_f8e889e87d0c08c7.jpg 480w, https://mjohnson7cd.github.io/thesneers/artwork/22_hu_18ff6ddff8753f74.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/22_hu_35f34d19b26b33bf.jpg 480w, http://localhost:1313/thesneers/22_hu_7c032bf653ecf3af.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -297,10 +279,10 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/artwork/21.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/21.jpg&#34;
 	width=&#34;2258&#34;
 	height=&#34;1465&#34;
-	srcset=&#34;https://mjohnson7cd.github.io/thesneers/artwork/21_hu_be9523a530650da2.jpg 480w, https://mjohnson7cd.github.io/thesneers/artwork/21_hu_4383d7ec90ea4097.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/thesneers/21_hu_ccf32fa878f194c5.jpg 480w, http://localhost:1313/thesneers/21_hu_7f25025758fc6c35.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -312,21 +294,21 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Links</title>
-        <link>https://mjohnson7cd.github.io/thesneers/links/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <title>Songs in the Key of Mike</title>
+        <link>http://localhost:1313/thesneers/songs-in-the-key-of-mike/</link>
+        <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
         <author>info@thesneers.com (The Sneers)</author>
-        <guid>https://mjohnson7cd.github.io/thesneers/links/</guid>
-        <description>&lt;p&gt;This page contains links to The Sneers on various streaming platforms and social media accounts.&lt;/p&gt;
+        <guid>http://localhost:1313/thesneers/songs-in-the-key-of-mike/</guid>
+        <description>&lt;img src="http://localhost:1313/2.jpeg" alt="Featured image of post Songs in the Key of Mike" /&gt;&lt;p&gt;Our new EP is out! “Songs in the Key of Mike” is available on all streams, including Bandcamp and Spotify. Produced by John Angelo. Artwork by Andrew Burgess. Dedicated to our man, Michael McMahon Jr., who after the recording of this record moved on to pursue new adventures. Mike had been with us since the band’s inception. He’s an awesome human and we wish him the best in all endeavors. This EP rips! Please check it out! Track list includes: ‘Fuck These Fucking Nazis,’ ‘Katy Perry,’ ‘Tool Bag,’ and ‘Whip’ (revisited). Soon to be released in physical format too from 1120 Records. Stay tuned!&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Songs in the Key of Mike</title>
-        <link>https://mjohnson7cd.github.io/thesneers/songs-in-the-key-of-mike/</link>
+        <title>About Us</title>
+        <link>http://localhost:1313/thesneers/about-us/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>info@thesneers.com (The Sneers)</author>
-        <guid>https://mjohnson7cd.github.io/thesneers/songs-in-the-key-of-mike/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;https://mjohnson7cd.github.io/thesneers/2.jpeg&#34;
+        <guid>http://localhost:1313/thesneers/about-us/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/thesneers/6.jpg&#34;
 	
 	
 	
@@ -334,7 +316,18 @@ Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;Our new EP is out! “Songs in the Key of Mike” is available on all streams, including Bandcamp and Spotify. Produced by John Angelo. Artwork by Andrew Burgess. Dedicated to our man, Michael McMahon Jr., who after the recording of this record moved on to pursue new adventures. Mike had been with us since the band’s inception. He’s an awesome human and we wish him the best in all endeavors. This EP rips! Please check it out! Track list includes: ‘Fuck These Fucking Nazis,’ ‘Katy Perry,’ ‘Tool Bag,’ and ‘Whip’ (revisited). Soon to be released in physical format too from 1120 Records. Stay tuned!&lt;/p&gt;
+&lt;p&gt;The Sneers are a punk band from Buffalo NY. We infuse a unique blend of influences mixing elements of both hardcore and
+jam to  create a tight yet free-flowing and unique sound set against a landscape of words and stories that exude the
+Rust Belt&amp;rsquo;s rawness, dark humor, restlessness and angst.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>http://localhost:1313/thesneers/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>info@thesneers.com (The Sneers)</author>
+        <guid>http://localhost:1313/thesneers/links/</guid>
+        <description>&lt;p&gt;This page contains links to The Sneers on various streaming platforms and social media accounts.&lt;/p&gt;
 </description>
         </item>
         

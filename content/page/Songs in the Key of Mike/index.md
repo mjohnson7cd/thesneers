@@ -1,5 +1,7 @@
 ---
 title: Songs in the Key of Mike
+date: 2025-10-19T00:00:00Z
+image: 2.jpeg
 links:
   - title: Spotify
     description: Listen to "Songs in the Key of Mike" on Spotify.
@@ -24,7 +26,6 @@ menu:
             icon: music
 comments: false
 ---
-![](2.jpeg)
 
 
 Our new EP is out! “Songs in the Key of Mike” is available on all streams, including Bandcamp and Spotify. Produced by John Angelo. Artwork by Andrew Burgess. Dedicated to our man, Michael McMahon Jr., who after the recording of this record moved on to pursue new adventures. Mike had been with us since the band’s inception. He’s an awesome human and we wish him the best in all endeavors. This EP rips! Please check it out! Track list includes: ‘Fuck These Fucking Nazis,’ ‘Katy Perry,’ ‘Tool Bag,’ and ‘Whip’ (revisited). Soon to be released in physical format too from 1120 Records. Stay tuned!
