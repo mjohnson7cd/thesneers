@@ -3,6 +3,12 @@ title: Gallery
 description: We believe that visual art is just as important as our music.
 date: 2025-10-20T00:00:00Z
 image: 21.jpg
+menu:
+  main:
+    weight: 4
+    params:
+      name: Gallery
+      icon: photo-scan
 comments: false
 ---
 
